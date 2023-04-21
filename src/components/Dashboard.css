@@ -1,0 +1,107 @@
+.dashboard-upgrade {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  
+  .dashboard-upgrade p {
+    font-size: 14px;
+  }
+  
+  .dashboard-upgrade button {
+    background-color: #1E90FF;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+
+  .dashboard-content {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .dashboard-card {
+    width: 48%;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+    margin-right:40px;
+  }
+  
+  .dashboard-card h4 {
+    margin: 0 0 10px 0;
+  }
+  
+  .dashboard-card p {
+    margin: 0;
+  }
+  
+  .dashboard-upgrade {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .dashboard-upgrade p {
+    margin: 0;
+  }
+  
+  .dashboard-upgrade button {
+    background-color: #1E90FF;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .dashboard {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(214, 20, 20, 0.1);
+    padding: 20px;
+    margin-right: 10px;
+  }
+  
+  .dashboard_main{
+    display: flex;
+  }
+  .service_card{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom:20px;
+    margin-right: 10px;
+    /* height: 120px; */
+    width:380px;
+  }
+  .dashboard-container {
+    flex: 1;
+    margin-left: 80px; /* Change this value to match the width of your Sidebar */
+    padding: 20px;
+    height:300px;
+    width:500px;
+  }
+
+  .service_container{
+    display: flex;
+    height:200px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    
+
+    
+    
+  }
+  
+  
